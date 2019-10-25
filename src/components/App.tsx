@@ -9,7 +9,7 @@ class App extends React.Component {
           <h1 className="App-title">how long</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.tsx</code> and save to reload.
+          Testing out TeamCity TestDrive triggers.
         </p>
       </div>
     );
